@@ -1,0 +1,27 @@
+{
+  "name": "data-selection",
+  "version": "0.0.1",
+  "description": "Manage selection state from a collection of items",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhenten/data-selection.git"
+  },
+  "keywords": [
+    "select",
+    "selection",
+    "state"
+  ],
+  "author": "Matthijs van Henten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/data-selection/issues"
+  },
+  "homepage": "https://github.com/mvhenten/data-selection#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
